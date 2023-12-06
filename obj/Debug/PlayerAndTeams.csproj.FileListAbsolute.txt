@@ -1,0 +1,7 @@
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\bin\Debug\PlayerAndTeams.exe.config
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\bin\Debug\PlayerAndTeams.exe
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\bin\Debug\PlayerAndTeams.pdb
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\obj\Debug\PlayerAndTeams.csproj.AssemblyReference.cache
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\obj\Debug\PlayerAndTeams.csproj.CoreCompileInputs.cache
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\obj\Debug\PlayerAndTeams.exe
+D:\Mphasis\Programs\Mphasis Assignments\SimpliLearn Assesment\PlayerAndTeams\PlayerAndTeams\obj\Debug\PlayerAndTeams.pdb
